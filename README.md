@@ -1,5 +1,5 @@
 # Simple-dsa
-Cli tool 
+ Simple cli tool to operate digital signatures.
 
 # Installation
 
